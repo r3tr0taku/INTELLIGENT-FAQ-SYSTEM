@@ -1,0 +1,54 @@
+{
+  "faqs": [
+    {
+      "question": "What is the full name of the university?",
+      "answer": "The full name of the university is Cavite State University, commonly referred to as CvSU. It is a premier public university in the Philippines located in Cavite province.",
+      "category": "General Information"
+    },
+    {
+      "question": "What are the admission requirements for undergraduate programs?",
+      "answer": "To be admitted as an undergraduate student at CvSU, you must: 1) Be a high school graduate or equivalent; 2) Have passed the National College Entrance Examination (NCEE) or equivalent entrance exam; 3) Meet the specific course requirements; 4) Submit all required documents to the Registrar's Office.",
+      "category": "Enrollment"
+    },
+    {
+      "question": "What is the grading system used at CvSU?",
+      "answer": "CvSU uses a 5-point grading scale: 1.0 (Excellent), 1.25-2.0 (Good), 2.25-3.0 (Satisfactory), 3.25-4.0 (Passing), and 5.0 (Failed). The final grade is computed based on course requirements including attendance, quizzes, midterm and final exams.",
+      "category": "Grading"
+    },
+    {
+      "question": "What is the attendance policy for students?",
+      "answer": "Students are required to maintain at least 80% attendance in all courses. Absences beyond the allowed threshold may result in lower grades or course failure. Medical certificates and official university-approved reasons may be considered for justified absences.",
+      "category": "Attendance"
+    },
+    {
+      "question": "How much are the tuition fees for the current academic year?",
+      "answer": "Tuition fees vary depending on the program and course load. For detailed information about tuition and other fees, please visit the CvSU website or contact the Accounting Office. Scholarship programs and financial aid are available for qualified students.",
+      "category": "Fees and Financial Aid"
+    },
+    {
+      "question": "What campus services are available to students?",
+      "answer": "CvSU provides comprehensive student services including: health services at the Student Clinic, counseling services, library facilities, computer labs, sports facilities, student organizations, and career placement services. All services are designed to support student success.",
+      "category": "Campus Services"
+    },
+    {
+      "question": "What is the student conduct code?",
+      "answer": "The CvSU Student Conduct Code outlines expected behavior and academic integrity standards. Key principles include: academic honesty, respect for others, proper conduct in campus and online, and compliance with university policies. Violations may result in disciplinary action.",
+      "category": "Student Conduct"
+    },
+    {
+      "question": "How can I apply for a scholarship?",
+      "answer": "Scholarship applications are processed through the Office of Student Affairs. Eligibility criteria typically include academic performance, financial need, and compliance with university policies. Deadlines are announced at the beginning of each academic year.",
+      "category": "Fees and Financial Aid"
+    },
+    {
+      "question": "What is the minimum GPA required to maintain good academic standing?",
+      "answer": "Students must maintain a minimum cumulative grade point average (GPA) of 2.0 to remain in good academic standing. Students falling below this threshold may be placed on academic probation.",
+      "category": "Academics"
+    },
+    {
+      "question": "How do I access the CvSU library?",
+      "answer": "The CvSU library provides access to physical and digital resources. All enrolled students can access the library using their student ID. Library hours are typically Monday-Friday 7:00 AM - 6:00 PM and Saturday 8:00 AM - 4:00 PM. Digital resources are available 24/7.",
+      "category": "Campus Services"
+    }
+  ]
+}
